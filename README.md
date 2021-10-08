@@ -1,6 +1,7 @@
 # SKINAI | Deep learning based web application for skin lesion classification 
- This repo is our solution for the final project of the course Distributed Programming and Networking of [MAIA](https://maiamaster.udg.edu/) master program.  
+ This repo is our(Aigerim Dautkulova, Khrystyna Faryna and Rua Khaled) solution for the final project of the course Distributed Programming and Networking of [MAIA](https://maiamaster.udg.edu/) master program.  
  The project is a client side web application for skin lesion classification with deep learning. 
+ 
 ## Application
 
 ![image](/media/uploadedimg/ss2.png)
